@@ -1,0 +1,22 @@
+{
+  "name": "round-to-value",
+  "version": "1.0.0",
+  "description": "Rounds value to given precision",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/insane-jo/round-to-value.git"
+  },
+  "keywords": [
+    "round"
+  ],
+  "author": "insane-jo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/insane-jo/round-to-value/issues"
+  },
+  "homepage": "https://github.com/insane-jo/round-to-value#readme"
+}
